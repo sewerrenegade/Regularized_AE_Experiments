@@ -1,0 +1,13 @@
+job,estimated_time,model_name,dataset_name,random_state,lr,batch_size,epochs,lam
+0,1,PropTopoAE,Faces,42,,128,,10
+0,1,TopoAE,Faces,42,,128,,10
+0,1,GRAE,Faces,42,,128,,10
+0,1,AE,Faces,42,,128,,
+1,1,TopoAE,Clusters,42,,128,,10
+1,1,AE,Clusters,42,,128,,
+2,1,AE,RotatedDigits,42,,128,,
+3,1,AE,Tracking,42,,128,,
+4,1,AE,COIL100,42,,128,
+5,1,AE,RotatedDigits,42,,128,
+6,1,AE,UMIST,42,,128,
+7,1,AE,SwissRoll,42,,128,
